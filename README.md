@@ -31,4 +31,5 @@
  - go to line forty one
  - return count
  - rename variable count to sum
- to undersand how to speak commands open the class Execute.
+ 
+ To undersand how to speak commands open the class Execute.
